@@ -6,5 +6,5 @@
 - 👯 Feel free to reach out and connect!
 
 
-### :fire: My Stats :
+### :fire: Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehshah102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

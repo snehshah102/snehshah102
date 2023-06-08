@@ -1,4 +1,4 @@
-👋 Hi I'm Sneh
+### 👋 Hi I'm Sneh
 
 - 💻 Previous Software Developer Intern @ BlackBerry & Nokia)
 - 🔭 I’m currently studying Management Engineering at the University of Waterloo

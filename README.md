@@ -13,3 +13,6 @@
 Languages: Python, Java, JavaScript, TypeScript, R, Go, SQL, VBA, HTML/CSS <br />
 Technologies: React, Node.js, Next.js, Express, GraphQL, Flask <br />
 Developer Tools: Git, Terraform, Unix/Linux, Docker, Figma, PostgreSQL, MySQL, MongoDB, GCP
+
+
+## Currently seeking fall 2023 internships!

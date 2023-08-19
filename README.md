@@ -15,4 +15,4 @@ Technologies: React, Node.js, Next.js, Express, GraphQL, Flask <br />
 Developer Tools: Git, Terraform, Unix/Linux, Docker, Figma, PostgreSQL, MySQL, MongoDB, GCP
 
 
-## Currently seeking fall 2023 internships!
+## Currently seeking summer 2024 internships!

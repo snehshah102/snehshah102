@@ -9,8 +9,6 @@
 ### :fire: Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehshah102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehshah102&show_icons=true&theme=vision-friendly-dark)
-
 ### :hammer_and_wrench: Languages and Tools :
 Languages: Python, Java, JavaScript, TypeScript, R, Go, SQL, VBA, HTML/CSS <br />
 Technologies: React, Node.js, Next.js, Express, GraphQL, Flask <br />

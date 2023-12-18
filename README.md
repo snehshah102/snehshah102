@@ -3,7 +3,7 @@
 - 💻 TPM @ SunGrid Solutions. Previous Software Engineer Intern @ BlackBerry & Nokia
 - 🔭 I’m currently studying Management Engineering (Specialization: Artificial Intelligence Engineering) at the University of Waterloo
 - ⚡ I enjoy building products of philanthropic value 
-- 👯 Feel free to reach out and connect!
+- 👯 Feel free to reach out and connect! 
 
 
 ### 🔥 Most Used Languages:

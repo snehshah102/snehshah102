@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Sneh
 
-- 💻 TPM @ SunGrid Solutions. Previous Software Engineer Intern @ BlackBerry & Nokia
+- 💻 Previous Software Engineer Intern @ BlackBerry & Nokia, and Technical Product Manager Intern @ SunGrid Solutions. 
 - 🔭 I’m currently studying Management Engineering (Specialization: Artificial Intelligence Engineering) at the University of Waterloo
 - ⚡ I enjoy building products of philanthropic value 
 - 👯 Feel free to reach out and connect! 

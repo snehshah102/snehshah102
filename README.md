@@ -6,9 +6,6 @@
 - 👯 Feel free to reach out and connect! 
 
 
-### 🔥 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehshah102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🛠 Languages and Tools :
 Languages: Python, Java, C/C++, JavaScript, TypeScript, R, SQL, VBA, HTML/CSS <br/>
 Technologies: React, Node.js, Next.js, Express, GraphQL, Flask, Ruby on Rails, Angular <br/>

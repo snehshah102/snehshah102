@@ -12,4 +12,4 @@ Technologies: React, Node.js, Next.js, Express, GraphQL, Flask, Ruby on Rails, A
 Tools: Git, Terraform, Unix/Linux, Docker, PostgreSQL, MongoDB, AWS DynamoDB, GCP, Smartsheet
 
 
-## Currently seeking summer 2024 internships!
+## Currently seeking Winter/Spring 2025 internships!

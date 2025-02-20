@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Sneh
 
-- 💻 Previous Software Engineer Intern @ Capital One, BlackBerry & Nokia, and Technical Product Manager Intern @ SunGrid Solutions. 
+- 💻 SWE @ X, Previous Software Engineer Intern @ Capital One, BlackBerry & Nokia, and Technical Product Manager Intern @ SunGrid Solutions. 
 - 🔭 I’m currently studying Management Engineering (Specialization: Artificial Intelligence Engineering) at the University of Waterloo
 - ⚡ I enjoy building products of philanthropic value 
 - 👯 Feel free to reach out and connect! 
@@ -12,4 +12,4 @@ Technologies: React, Node.js, Next.js, Express, GraphQL, Flask, Ruby on Rails, A
 Tools: Git, Terraform, Unix/Linux, Docker, PostgreSQL, MongoDB, AWS DynamoDB, GCP, Smartsheet
 
 
-## Currently seeking Winter/Spring 2025 internships!
+## Currently seeking Fall 2025 internships and 2026 New Grad!

@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Sneh
 
-- 💻 SWE @ X, Previous Software Engineer Intern @ Capital One, BlackBerry & Nokia, and Technical Product Manager Intern @ SunGrid Solutions. 
+- 💻 SWE @ X (Twitter), Previous Software Engineer Intern @ Capital One, BlackBerry & Nokia, and Technical Product Manager Intern @ SunGrid Solutions. 
 - 🔭 I’m currently studying Management Engineering (Specialization: Artificial Intelligence Engineering) at the University of Waterloo
 - ⚡ I enjoy building products of philanthropic value 
 - 👯 Feel free to reach out and connect! 
